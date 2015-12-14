@@ -1,0 +1,8 @@
+<IfModule mod_rewrite.c>
+Options +FollowSymLinks
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^www\.gruzchik-minsk\.by$ [NC]
+RewriteRule ^(.*)$ http://gruzchik-minsk.by$1 [R=301,L]
+RewriteCond %{HTTP_HOST} ^gruzchik-minsk.by.atwood.neolocation.net
+RewriteRule ^(.*)$ http://gruzchik-minsk.by/$1 [R=permanent,L]
+</IfModule>

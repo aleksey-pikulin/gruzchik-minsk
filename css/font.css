@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face
+{
+	font-family:a1;
+	src:url('../font/pfdindisplaypro-medd41d.eot?') format('eot'),
+	url('../font/PFDinDisplayPro-Medium.woff') format('woff'),
+	url('../font/pfdindisplaypro-med.ttf')  format('truetype'),
+	url('../font/PFDinDisplayPro-Medium.svg') format('svg');}
+@font-face
+{
+	font-family:a2;
+	src:url('../font/pfdindisplaypro-lightd41d.eot?') format('eot'),
+	url('../font/PFDinDisplayPro-Light.woff') format('woff'),
+	url('../font/pfdindisplaypro-light.ttf')  format('truetype'),
+	url('../font/PFDinDisplayPro-Light.svg') format('svg');}
+@font-face
+{
+	font-family:a3;
+	src:url('../font/pfdindisplaypro-boldd41d.eot?') format('eot'),
+	url('../font/PFDinDisplayPro-Bold.woff') format('woff'),
+	url('../font/pfdindisplaypro-bold.ttf')  format('truetype'),
+	url('../font/PFDinDisplayPro-Bold.svg') format('svg');}
+@font-face
+{
+	font-family:a4;
+	src:url('../font/pfdindisplaypro-thind41d.eot?') format('eot'),
+	url('../font/PFDinDisplayPro-Thin.woff') format('woff'),
+	url('../font/pfdindisplaypro-thin.ttf')  format('truetype'),
+	url('../font/PFDinDisplayPro-Thin.svg') format('svg');}
+@font-face
+{
+	font-family:a5;
+	src:url('../font/pfdindisplaypro-thin.ttf')  format('truetype');}
+
+.fonta1
+{
+	font-family:a1;}
+.fonta2
+{
+	font-family:a2;}
+.fonta3
+{
+	font-family:a3;}
+.fonta4
+{
+	font-family:a4;}
+.fonta5
+{
+	font-family:a5;}	
+.colsp1
+{
+	color:#FFFFFF;}
+.colsp
+{
+	color:#406370;}
+.colsp2
+{
+	color:#1e5365;}
+.colsp3
+{
+	color:#00a7e1;}
+.colsp4
+{
+	color:#838383;}
+.colsp5
+{
+	color:#2d7094;}
+.colsp6
+{
+	color:#434343;}
+.colsp7
+{
+	color:7e7e7e;}
+.op
+{
+	opacity:0;}

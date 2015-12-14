@@ -1,0 +1,56 @@
+﻿@charset "utf-8";
+/* CSS Document */
+.zagolovok
+{
+	text-align:center;
+	font-size:50px;
+	padding:20px 0 20px 0;
+	width:100%;
+	height:auto;
+	color: #375464;
+	font-family: a4;
+}
+.sec_pro
+{
+	width:980px;
+	/*height: 475px;*/
+	text-align:center;
+	margin: 60px auto 0 auto;
+	position:relative;
+overflow: hidden;}
+.zagolovok1
+{
+	width:980px;
+	height:auto;
+	margin:0 auto;
+	padding:30px 0 30px 0;
+	font-size:50px;
+color: #375464;}
+
+#header1 .sec_pro,#header2 .sec_pro,#header3 .sec_pro{
+	margin: 60px auto 0 auto;
+}
+#header1 .logo,#header2 .logo,#header3 .logo {
+	margin-top: 15px;
+	float: left;
+}
+
+#header1 .logo_1,#header2 .logo_1,#header3 .logo_1 {
+	float: left;
+	margin-top: 30px;
+	margin-left: 97px;
+}
+#header1 .logo_2,#header2 .logo_2,#header3 .logo_2 {
+	float: left;
+	margin-top: -35px;
+	margin-left: 0px;
+	font-family: a2;
+	font-size: 18px;
+	height:auto;
+	color: #FFF;
+	text-align: right;
+}
+#header1 .sec_nomer,#header2 .sec_nomer,#header3 .sec_nomer {
+	float: right;
+	margin-top: 0;
+}
